@@ -1,2 +1,2 @@
-# hoppingLIST
+# shoppingLIST
 my Frirst real repo
